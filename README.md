@@ -30,3 +30,5 @@ User-friendly interface with intuitive navigation
 **Getting Started:**
 
 To get started, simply download the source code, open it with Xcode, connect your telephone to your macbook and install it. Then create your profile and start connecting with others. Whether you want to share your experiences, engage with others on topics that interest you, or just keep in touch with friends and family, this social media app has everything you need. So why wait? Download now and start exploring the world of social media.
+
+This application uses Firebase as back-end service.
